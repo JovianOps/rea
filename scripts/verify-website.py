@@ -12,9 +12,9 @@ from zipfile import BadZipFile, ZipFile
 
 from website import NOTES_FIXTURES, SITE_ORIGIN, authored_markdown, page_url, sync_pages
 
-LEGACY_ORIGIN = "morluto.github.io"
+LEGACY_ORIGIN = "athallajovian9-cyber.github.io"
 SITE_TEXT_URL = re.compile(
-    r"https?://(?:rea\.tools|morluto\.github\.io)/[^\s<>\"'`]+", re.IGNORECASE
+    r"https?://(?:rea\.tools|athallajovian9-cyber\.github\.io)/[^\s<>\"'`]+", re.IGNORECASE
 )
 
 
@@ -66,7 +66,7 @@ def check_repository_links(root):
                 errors.append(f"{path.relative_to(root)}: obsolete website URL: {reference}")
                 continue
             if url.hostname == "github.com":
-                match = re.match(r"^/morluto/rea/(?:blob|tree)/main/(.+)$", url.path)
+                match = re.match(r"^/JovianOps/rea/(?:blob|tree)/main/(.+)$", url.path)
                 if not match:
                     continue
                 target = (root / unquote(match[1])).resolve()

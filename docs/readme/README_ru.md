@@ -12,11 +12,11 @@
 [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
 [![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](../mcp-contracts.md#generated-catalog)
 [![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#current-status)
-[![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)
+[![skills.sh](https://skills.sh/b/JovianOps/rea?style=flat-square)](https://skills.sh/JovianOps/rea/reverse-engineer-anything)
 [![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](../../LICENSE)
 [![Discord](https://img.shields.io/discord/1556595354999332884?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/GkcryMnJDM)
 
-<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="morluto%2Frea | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="athallajovian9-cyber%2Frea | Trendshift" width="250" height="55"/></a>
 
 **[Сайт](https://rea.tools/ru/) · [Руководства](https://rea.tools/ru/guides/) · [Примеры](https://rea.tools/ru/showcase/)**
 
@@ -27,7 +27,7 @@
 </div>
 
 > [!IMPORTANT]
-> Официальные источники REA: [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
+> Официальные источники REA: [JovianOps/rea](https://github.com/JovianOps/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
 > Используйте ссылки на установку и выпуски из этих официальных источников. Похожее название репозитория или скопированный README не подтверждают, что скачиваемый файл является официальным.
 
 <div align="center">
@@ -190,7 +190,7 @@ REA требует Node.js 22.x (>=22.19), 24.x (>=24.11) или 26+, а так�
 
 [Прочитать исследование](https://rea.tools/ru/showcase/th04/) · [Репозиторий реконструкции](https://github.com/N0zoM1z0/th04)
 
-Если вы исследовали с REA что-то интересное, поделитесь результатом. Создайте [issue](https://github.com/morluto/rea/issues) или [pull request](https://github.com/morluto/rea/pulls) и укажите цель, ваш вопрос, как помог REA и что удалось узнать.
+Если вы исследовали с REA что-то интересное, поделитесь результатом. Создайте [issue](https://github.com/JovianOps/rea/issues) или [pull request](https://github.com/JovianOps/rea/pulls) и укажите цель, ваш вопрос, как помог REA и что удалось узнать.
 
 ## Частые вопросы
 
@@ -253,7 +253,7 @@ rea update
 npx rea-agents@latest setup
 ```
 
-Если используете агента, завершите [обновление настройки](#обновите-rea) и перезапустите его. Повторите ту же задачу. Если проблема сохраняется, [откройте issue](https://github.com/morluto/rea/issues), указав версию REA, тип цели, шаги воспроизведения и вывод ошибки.
+Если используете агента, завершите [обновление настройки](#обновите-rea) и перезапустите его. Повторите ту же задачу. Если проблема сохраняется, [откройте issue](https://github.com/JovianOps/rea/issues), указав версию REA, тип цели, шаги воспроизведения и вывод ошибки.
 
 </details>
 
@@ -276,11 +276,11 @@ npx rea-agents@latest setup
 
 Спасибо всем, кто использует REA, сообщает об ошибках, предлагает новые функции, тестирует сборки и помогает с исправлениями.
 
-<a href="https://www.star-history.com/?repos=morluto%2Frea&amp;type=date">
+<a href="https://www.star-history.com/?repos=athallajovian9-cyber%2Frea&amp;type=date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
-    <img alt="История звёзд REA на GitHub" src="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
+    <img alt="История звёзд REA на GitHub" src="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
   </picture>
 </a>
 
@@ -296,7 +296,7 @@ applicable licenses.
 
 ## Участие в проекте
 
-Будем рады вашей помощи с REA! [Откройте issue](https://github.com/morluto/rea/issues), чтобы сообщить об ошибке или предложить функцию, либо [отправьте pull request](https://github.com/morluto/rea/pulls) с улучшениями кода или документации.
+Будем рады вашей помощи с REA! [Откройте issue](https://github.com/JovianOps/rea/issues), чтобы сообщить об ошибке или предложить функцию, либо [отправьте pull request](https://github.com/JovianOps/rea/pulls) с улучшениями кода или документации.
 
 Настройка среды разработки и проверки описаны в [CONTRIBUTING.md](../../CONTRIBUTING.md), направления проверки — в [руководстве по тестированию](../testing.md), а структура проекта — на [схеме архитектуры](../architecture.mermaid).
 

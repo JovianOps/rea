@@ -35,7 +35,7 @@ export async function verifyPackagePack({ root, workspace }) {
     packedManifest.bin?.["rea-agents"] !== "scripts/rea.mjs"
   )
     throw new Error("package did not expose both rea command entry points");
-  if (packedManifest.mcpName !== "io.github.morluto/rea")
+  if (packedManifest.mcpName !== "io.github.JovianOps/rea")
     throw new Error("package did not retain its MCP Registry ownership marker");
   if (packedFiles.some((path) => path.startsWith("package/.agents/")))
     throw new Error(

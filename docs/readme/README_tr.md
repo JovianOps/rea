@@ -12,11 +12,11 @@
 [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
 [![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](../mcp-contracts.md#generated-catalog)
 [![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#current-status)
-[![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)
+[![skills.sh](https://skills.sh/b/JovianOps/rea?style=flat-square)](https://skills.sh/JovianOps/rea/reverse-engineer-anything)
 [![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](../../LICENSE)
 [![Discord](https://img.shields.io/discord/1556595354999332884?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/GkcryMnJDM)
 
-<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="morluto%2Frea | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="athallajovian9-cyber%2Frea | Trendshift" width="250" height="55"/></a>
 
 **[Web sitesi](https://rea.tools/tr/) · [Rehberler](https://rea.tools/tr/guides/) · [Örnek çalışmalar](https://rea.tools/tr/showcase/)**
 
@@ -27,7 +27,7 @@
 </div>
 
 > [!IMPORTANT]
-> REA’nın resmî kaynakları: [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
+> REA’nın resmî kaynakları: [JovianOps/rea](https://github.com/JovianOps/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
 > Kurulum ve sürüm bağlantılarını bu resmî kaynaklardan takip edin. Benzer bir depo adı veya kopyalanmış bir README, indirilen dosyanın resmî olduğunu kanıtlamaz.
 
 <div align="center">
@@ -195,7 +195,7 @@ Bir ses çağrısından konumu stereo konumlandırmaya dönüştüren yardımcı
 
 [Örnek çalışmayı okuyun](https://rea.tools/tr/showcase/th04/) · [Yeniden oluşturma deposu](https://github.com/N0zoM1z0/th04)
 
-REA'yı ilginç bir konuda kullandıysanız görmek isteriz. Hedefi, sorunuzu, REA'nın nasıl yardımcı olduğunu ve bulgularınızı bir [issue](https://github.com/morluto/rea/issues) veya [pull request](https://github.com/morluto/rea/pulls) ile paylaşın.
+REA'yı ilginç bir konuda kullandıysanız görmek isteriz. Hedefi, sorunuzu, REA'nın nasıl yardımcı olduğunu ve bulgularınızı bir [issue](https://github.com/JovianOps/rea/issues) veya [pull request](https://github.com/JovianOps/rea/pulls) ile paylaşın.
 
 ## Sık sorulan sorular
 
@@ -258,7 +258,7 @@ rea update
 npx rea-agents@latest setup
 ```
 
-Ajan kullanıyorsanız [kurulum yenilemesini](#reayı-güncelleyin) tamamlayın ve ajanı yeniden başlatın. Aynı görevi tekrar deneyin. Sorun sürerse REA sürümünüzü, hedef türünü, yeniden üretme adımlarını ve hata çıktısını içeren bir [issue açın](https://github.com/morluto/rea/issues).
+Ajan kullanıyorsanız [kurulum yenilemesini](#reayı-güncelleyin) tamamlayın ve ajanı yeniden başlatın. Aynı görevi tekrar deneyin. Sorun sürerse REA sürümünüzü, hedef türünü, yeniden üretme adımlarını ve hata çıktısını içeren bir [issue açın](https://github.com/JovianOps/rea/issues).
 
 </details>
 
@@ -281,11 +281,11 @@ Güvenlik açıklarını [SECURITY.md](../../SECURITY.md) üzerinden bildirin.
 
 REA'yı kullanan, hata bildiren, özellik talep eden, derlemeleri test eden ve düzeltmelere katkıda bulunan herkese teşekkürler.
 
-<a href="https://www.star-history.com/?repos=morluto%2Frea&amp;type=date">
+<a href="https://www.star-history.com/?repos=athallajovian9-cyber%2Frea&amp;type=date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
-    <img alt="REA GitHub yıldız geçmişi" src="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
+    <img alt="REA GitHub yıldız geçmişi" src="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
   </picture>
 </a>
 
@@ -301,7 +301,7 @@ korur.
 
 ## Katkıda bulunma
 
-REA'ya katkınızı bekliyoruz! Hata bildirmek veya özellik önermek için bir [issue açın](https://github.com/morluto/rea/issues); kodu veya belgeleri geliştirmek için bir [pull request gönderin](https://github.com/morluto/rea/pulls).
+REA'ya katkınızı bekliyoruz! Hata bildirmek veya özellik önermek için bir [issue açın](https://github.com/JovianOps/rea/issues); kodu veya belgeleri geliştirmek için bir [pull request gönderin](https://github.com/JovianOps/rea/pulls).
 
 Geliştirme ortamı ve kontroller için [CONTRIBUTING.md](../../CONTRIBUTING.md), doğrulama süreçleri için [test rehberi](../testing.md) ve proje yapısı için [mimari harita](../architecture.mermaid) belgelerine bakın.
 

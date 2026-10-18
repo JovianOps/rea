@@ -12,11 +12,11 @@
 [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
 [![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](../mcp-contracts.md#generated-catalog)
 [![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#current-status)
-[![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)
+[![skills.sh](https://skills.sh/b/JovianOps/rea?style=flat-square)](https://skills.sh/JovianOps/rea/reverse-engineer-anything)
 [![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](../../LICENSE)
 [![Discord](https://img.shields.io/discord/1556595354999332884?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/GkcryMnJDM)
 
-<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="morluto%2Frea | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="athallajovian9-cyber%2Frea | Trendshift" width="250" height="55"/></a>
 
 **[Strona internetowa](https://rea.tools/pl/) · [Przewodniki](https://rea.tools/pl/guides/) · [Przykłady zastosowań](https://rea.tools/pl/showcase/)**
 
@@ -27,7 +27,7 @@
 </div>
 
 > [!IMPORTANT]
-> Oficjalne źródła REA: [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
+> Oficjalne źródła REA: [JovianOps/rea](https://github.com/JovianOps/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
 > Korzystaj z odnośników do instalacji i wydań w tych oficjalnych źródłach. Podobna nazwa repozytorium lub skopiowany README nie potwierdzają, że pobierany plik jest oficjalny.
 
 <div align="center">
@@ -190,7 +190,7 @@ Sprawdź 16-bitowe instrukcje oryginalnej gry na PC-98, odtwórz obliczenia kąt
 
 [Przeczytaj studium przypadku](https://rea.tools/pl/showcase/th04/) · [Repozytorium odtworzonej implementacji](https://github.com/N0zoM1z0/th04)
 
-Jeśli użyłeś REA do czegoś ciekawego, chętnie to zobaczymy. Opisz swój przypadek w [zgłoszeniu](https://github.com/morluto/rea/issues) lub [pull requeście](https://github.com/morluto/rea/pulls), podając cel analizy, pytanie, sposób, w jaki REA pomogło, i swoje ustalenia.
+Jeśli użyłeś REA do czegoś ciekawego, chętnie to zobaczymy. Opisz swój przypadek w [zgłoszeniu](https://github.com/JovianOps/rea/issues) lub [pull requeście](https://github.com/JovianOps/rea/pulls), podając cel analizy, pytanie, sposób, w jaki REA pomogło, i swoje ustalenia.
 
 ## FAQ
 
@@ -253,7 +253,7 @@ Dla konfiguracji agenta przez `npx`:
 npx rea-agents@latest setup
 ```
 
-Jeśli używasz agenta, wykonaj [odświeżenie konfiguracji](#zaktualizuj-rea) i uruchom go ponownie. Ponów tę samą operację. Jeśli problem pozostaje, [otwórz zgłoszenie](https://github.com/morluto/rea/issues), podając wersję REA, typ celu analizy, kroki odtworzenia problemu i komunikaty błędu.
+Jeśli używasz agenta, wykonaj [odświeżenie konfiguracji](#zaktualizuj-rea) i uruchom go ponownie. Ponów tę samą operację. Jeśli problem pozostaje, [otwórz zgłoszenie](https://github.com/JovianOps/rea/issues), podając wersję REA, typ celu analizy, kroki odtworzenia problemu i komunikaty błędu.
 
 </details>
 
@@ -276,11 +276,11 @@ Zgłaszaj podatności zgodnie z [SECURITY.md](../../SECURITY.md).
 
 Dziękujemy wszystkim, którzy używają REA, zgłaszają błędy, proponują nowe funkcje, testują kompilacje i przesyłają poprawki.
 
-<a href="https://www.star-history.com/?repos=morluto%2Frea&amp;type=date">
+<a href="https://www.star-history.com/?repos=athallajovian9-cyber%2Frea&amp;type=date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
-    <img alt="Historia gwiazdek REA na GitHubie" src="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
+    <img alt="Historia gwiazdek REA na GitHubie" src="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
   </picture>
 </a>
 
@@ -296,7 +296,7 @@ applicable licenses.
 
 ## Współtworzenie
 
-Chętnie przyjmiemy Twoją pomoc w rozwoju REA! [Otwórz zgłoszenie](https://github.com/morluto/rea/issues), aby poinformować o błędzie lub zaproponować funkcję, albo [wyślij pull request](https://github.com/morluto/rea/pulls) z ulepszeniami kodu lub dokumentacji.
+Chętnie przyjmiemy Twoją pomoc w rozwoju REA! [Otwórz zgłoszenie](https://github.com/JovianOps/rea/issues), aby poinformować o błędzie lub zaproponować funkcję, albo [wyślij pull request](https://github.com/JovianOps/rea/pulls) z ulepszeniami kodu lub dokumentacji.
 
 Zobacz [CONTRIBUTING.md](../../CONTRIBUTING.md), aby poznać konfigurację środowiska programistycznego i kontrole, [testowanie](../testing.md), aby poznać ścieżki weryfikacji, oraz [mapę architektury](../architecture.mermaid), aby poznać strukturę projektu.
 

@@ -12,11 +12,11 @@
 [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
 [![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](../mcp-contracts.md#generated-catalog)
 [![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#current-status)
-[![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)
+[![skills.sh](https://skills.sh/b/JovianOps/rea?style=flat-square)](https://skills.sh/JovianOps/rea/reverse-engineer-anything)
 [![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](../../LICENSE)
 [![Discord](https://img.shields.io/discord/1556595354999332884?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/GkcryMnJDM)
 
-<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="morluto%2Frea | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/82054" alt="athallajovian9-cyber%2Frea | Trendshift" width="250" height="55"/></a>
 
 **[Situs Web](https://rea.tools/id/) · [Panduan](https://rea.tools/id/guides/) · [Contoh Penggunaan](https://rea.tools/id/showcase/)**
 
@@ -27,7 +27,7 @@
 </div>
 
 > [!IMPORTANT]
-> Sumber resmi REA: [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
+> Sumber resmi REA: [JovianOps/rea](https://github.com/JovianOps/rea), [rea.tools](https://rea.tools/), [rea-agents](https://www.npmjs.com/package/rea-agents) (npm).
 > Gunakan tautan instalasi dan rilis dari sumber resmi ini. Nama repositori yang mirip atau README yang disalin tidak membuktikan bahwa unduhan tersebut resmi.
 
 <div align="center">
@@ -205,7 +205,7 @@ Periksa instruksi 16-bit dari gim PC-98 asli, pulihkan perhitungan sudut tetap d
 
 [Baca studi kasus](https://rea.tools/id/showcase/th04/) · [Repositori rekonstruksi](https://github.com/N0zoM1z0/th04)
 
-Jika Anda telah menggunakan REA untuk menganalisis sesuatu yang menarik, kami ingin melihat hasilnya. Bagikan kasus Anda melalui [issue](https://github.com/morluto/rea/issues) atau [pull request](https://github.com/morluto/rea/pulls), sertakan target, pertanyaan Anda, bagaimana REA membantu, dan apa yang Anda temukan.
+Jika Anda telah menggunakan REA untuk menganalisis sesuatu yang menarik, kami ingin melihat hasilnya. Bagikan kasus Anda melalui [issue](https://github.com/JovianOps/rea/issues) atau [pull request](https://github.com/JovianOps/rea/pulls), sertakan target, pertanyaan Anda, bagaimana REA membantu, dan apa yang Anda temukan.
 
 ## FAQ
 
@@ -276,7 +276,7 @@ npx rea-agents@latest setup
 
 Jika Anda menggunakan agen, selesaikan [pembaruan penyiapan](#perbarui-rea) dan mulai ulang agen tersebut.
 
-Coba kembali tugas yang sama. Jika masalah masih terjadi, [buat issue](https://github.com/morluto/rea/issues) dengan menyertakan versi REA, jenis target, langkah-langkah untuk mereproduksi masalah, dan keluaran kesalahan.
+Coba kembali tugas yang sama. Jika masalah masih terjadi, [buat issue](https://github.com/JovianOps/rea/issues) dengan menyertakan versi REA, jenis target, langkah-langkah untuk mereproduksi masalah, dan keluaran kesalahan.
 
 </details>
 
@@ -301,11 +301,11 @@ Laporkan kerentanan melalui [SECURITY.md](../../SECURITY.md).
 
 Terima kasih kepada semua orang yang menggunakan REA, melaporkan bug, meminta fitur, menguji build, dan berkontribusi dalam perbaikan.
 
-<a href="https://www.star-history.com/?repos=morluto%2Frea&amp;type=date">
+<a href="https://www.star-history.com/?repos=athallajovian9-cyber%2Frea&amp;type=date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
-    <img alt="Riwayat bintang GitHub REA" src="https://api.star-history.com/chart?repos=morluto/rea&amp;type=date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
+    <img alt="Riwayat bintang GitHub REA" src="https://api.star-history.com/chart?repos=JovianOps/rea&amp;type=date" />
   </picture>
 </a>
 
@@ -321,7 +321,7 @@ applicable licenses.
 
 ## Kontribusi
 
-Kami sangat menghargai bantuan Anda untuk REA! [Buat issue](https://github.com/morluto/rea/issues) untuk melaporkan bug atau menyarankan fitur, atau [kirim pull request](https://github.com/morluto/rea/pulls) untuk meningkatkan kode atau dokumentasi.
+Kami sangat menghargai bantuan Anda untuk REA! [Buat issue](https://github.com/JovianOps/rea/issues) untuk melaporkan bug atau menyarankan fitur, atau [kirim pull request](https://github.com/JovianOps/rea/pulls) untuk meningkatkan kode atau dokumentasi.
 
 Lihat [CONTRIBUTING.md](../../CONTRIBUTING.md) untuk penyiapan pengembangan dan pemeriksaan, [pengujian](../testing.md) untuk tahapan verifikasi, serta [peta arsitektur](../architecture.mermaid) untuk struktur proyek.
 

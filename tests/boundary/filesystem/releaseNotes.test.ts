@@ -107,7 +107,7 @@ beforeAll(async () => {
           author("claude"),
           author("cursoragent"),
           author("codex"),
-          author("morluto"),
+          author("athallajovian9-cyber"),
         ]),
         associatedPullRequests: page([]),
       },
@@ -242,7 +242,7 @@ it("inventories side branches and paginated credits, then checks and renders syn
   );
   expect(f.record).toContain("Thanks @dana.");
   expect(f.record).not.toMatch(
-    /@(?:merger|automation|platformbot|claude|cursoragent|codex|morluto)/u,
+    /@(?:merger|automation|platformbot|claude|cursoragent|codex|athallajovian9-cyber)/u,
   );
   const body = join(f.directory, "body.md");
   await writeFile(

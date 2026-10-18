@@ -57,7 +57,7 @@ function fixture(changes: Partial<ReadinessPullRequest> = {}) {
     paginate,
   };
   const context = {
-    repo: { owner: "morluto", repo: "rea" },
+    repo: { owner: "athallajovian9-cyber", repo: "rea" },
     payload: { pull_request: { number: 42 } },
     serverUrl: "https://github.com",
     runId: 123,
@@ -265,7 +265,7 @@ describe("GitHub status boundary", () => {
       },
     });
     expect(input.get).toHaveBeenCalledWith({
-      owner: "morluto",
+      owner: "athallajovian9-cyber",
       repo: "rea",
       pull_number: 42,
     });
