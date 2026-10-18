@@ -113,7 +113,7 @@ describe("curl installer scenarios", { timeout: 20_000 }, () => {
       "release lookup",
       [],
       { FAKE_CURL_FAIL: "1" },
-      "REA installation failed: the latest REA release could not be resolved. Check network access or pass --version VERSION, then retry.\n",
+      "REA installation failed: the latest REA release could not be resolved. Check network access, wait if GitHub is rate limiting this IP address, or pass --version VERSION, then retry.\n",
     ],
     [
       "release response",
